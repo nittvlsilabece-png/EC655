@@ -1,2 +1,2 @@
 # EC655
-Lab repo
+Mtech HDL Lab repo
